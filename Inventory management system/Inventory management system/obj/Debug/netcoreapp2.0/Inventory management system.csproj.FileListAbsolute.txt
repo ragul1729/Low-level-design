@@ -1,5 +1,0 @@
-C:\Low level design\Inventory management system\Inventory management system\obj\Debug\netcoreapp2.0\Inventory management system.csproj.AssemblyReference.cache
-C:\Low level design\Inventory management system\Inventory management system\obj\Debug\netcoreapp2.0\Inventory management system.GeneratedMSBuildEditorConfig.editorconfig
-C:\Low level design\Inventory management system\Inventory management system\obj\Debug\netcoreapp2.0\Inventory management system.AssemblyInfoInputs.cache
-C:\Low level design\Inventory management system\Inventory management system\obj\Debug\netcoreapp2.0\Inventory management system.AssemblyInfo.cs
-C:\Low level design\Inventory management system\Inventory management system\obj\Debug\netcoreapp2.0\Inventory management system.csproj.CoreCompileInputs.cache
