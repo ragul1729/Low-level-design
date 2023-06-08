@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "84a56c26-a486-4fe0-8bb1-916e49a28344": {
+      "ProjectGuid": "84a56c26-a486-4fe0-8bb1-916e49a28344",
+      "DisplayName": "Inventory management system",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
